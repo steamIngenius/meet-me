@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/steamIngenius/meet-me.png?label=ready&title=Ready)](https://waffle.io/steamIngenius/meet-me)
 # meet-me
 A meetup scheduling app!
 
